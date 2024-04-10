@@ -1,4 +1,4 @@
-## Small Shell
+# Small Shell
 
 ## Overview
 
